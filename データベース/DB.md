@@ -25,6 +25,7 @@
 |パスワード|pass|varchar(50)|○|○||
 |氏名|name|varchar(100)||○||
 |電話番号|tel|varchar(20)||○||
+|住所|varchar(50)||||
 |メール|mail|varchar(100)||○||
 |削除フラグ|del_flag|int(11)||||
 |登録日|reg_date|date||○||
